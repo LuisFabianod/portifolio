@@ -1,0 +1,3 @@
+de fato aprender animações em css
+ter 3 projetos (1 com framework pelo menos, 1 com node.js)
+aprender a criar uma seção de contato funcional
